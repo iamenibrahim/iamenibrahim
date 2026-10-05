@@ -146,4 +146,5 @@ Built projects including CodexProbe, a tool for recording and swapping LLM backe
 <p align="center">
   <a href="mailto:ibrahimiamen0@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/iamenibrahim"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/iamenibrahim"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
